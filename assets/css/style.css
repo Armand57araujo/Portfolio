@@ -1,0 +1,69 @@
+header {
+
+
+    width: 96%;
+    margin: 0 auto;
+    padding: 2.5rem;
+    text-align: center;
+
+
+}
+
+
+h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+
+}
+
+header,
+footer {
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
+  background-color: #0a0b0b;
+}
+
+
+ img { 
+    position: relative;
+    left: 500px;
+    bottom: 145px;
+    width: 130px;
+    height: 150px;
+    border-radius: 30%;
+}
+
+nav {
+
+position: relative;
+bottom: 250px;
+right: 15px;
+
+
+}
+
+
+.contact {
+    
+display: flex;
+flex-direction: center;
+}
+
+/* .text-center { */
+    /* text-align: center; */
+  /* } */
+  
+  /* .text-right { */
+    /* text-align: right; */
+  /* } */
+
+
+
+
+/* .qodef-svg--distort { */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100% */
+/* } */
