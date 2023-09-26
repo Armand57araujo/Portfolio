@@ -14,7 +14,7 @@
 
 
 body {
-    
+
     margin: auto;
     padding: auto;
     color: black;
@@ -38,8 +38,6 @@ header {
     /* padding: 2.5rem; */
     text-align: center;
     background-color: blanchedalmond
-
-
 }
 
 .top-header {
@@ -55,7 +53,7 @@ header {
     right: 10px
 }
 
-header h1 { 
+header h1 {
 
     padding: 10px;
     font-family: fantasy;
@@ -101,11 +99,11 @@ h2 {
 /* header */
 
 /* ,footer  */
-    /* { */
-    /* height: 60px; */
-    /* width: 100%; */
-    /* line-height: 60px; */
-   
+/* { */
+/* height: 60px; */
+/* width: 100%; */
+/* line-height: 60px; */
+
 /* } */
 
 
@@ -338,7 +336,21 @@ button {
     color: var(--aqua);
 }
 
-@media screen and (max-width: 807px) {}
+@media screen and (max-width: 807px) {
+    button {
+        height: 40px;
+        width: 120px;
+        background-color: aqua;
+        color: var(--aqua);
+
+        header {
+           justify-content: center;
+           
+        }
+            
+    }
+
+}
 
 @media screen and (max-width: 768) {}
 
