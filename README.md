@@ -11,7 +11,7 @@
 ## Description 
 With this project, I was asked to contruct a profile website where potential employers can visit in order to view the projects and work I've completed. 
 
-[Visit the Deployed Site](https://armand57araujo.github.io//) 
+[Visit the Deployed Site](https://armand57araujo.github.io/Portfolio/) 
 
 ![Portfolio.png](assets/css/Portfolio.png)
 
